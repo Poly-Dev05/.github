@@ -1,7 +1,7 @@
 
-## 
-![banner](https://github.com/user-attachments/assets/fdad0481-bf19-4d15-bf76-01a00b28d1e5)
 
+## 
+![banner](https://github.com/user-attachments/assets/977aa820-2b44-4d91-a89e-6d8f04317757)
 
 ### Polymarket Trading Bots & Analytics Tools
 
