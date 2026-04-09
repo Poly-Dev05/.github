@@ -8,11 +8,11 @@
 This organization provides a comprehensive suite of trading bots and analytical tools designed specifically for Polymarket traders.
 
 #### Features
-- Polymarket trading arbitrage 5min, 15min bot 
+- Polymarket trading arbitrage 5min, 15min bot (https://t.me/sei_arb_bot)
 
-- Copy trading bots  
+- Copy trading bots  (https://t.me/ddev05_bot)
 
 - Sports trading bots  
-- Market maker bots, HFT 
+- Market maker bots, HFT (https://t.me/DDevMMBot)
 
 
