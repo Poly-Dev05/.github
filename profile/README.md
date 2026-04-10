@@ -9,13 +9,6 @@
   Advanced automation, arbitrage, and analytics solutions built for serious Polymarket traders.
 </p>
 
----
-
-### 🚀 Overview
-This organization delivers a suite of **high-performance trading bots** and **data-driven tools** designed to optimize execution, improve decision-making, and capture inefficiencies in Polymarket markets.
-
----
-
 ### 🧠 Core Features
 
 #### ⚡ Arbitrage Bots (5m / 15m)
