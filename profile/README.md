@@ -9,43 +9,64 @@
   Advanced automation, arbitrage, and analytics solutions built for serious Polymarket traders.
 </p>
 
+
 ### 🧠 Core Features
 
-#### ⚡ Arbitrage Bots (5m / 15m)
-Exploit short-term pricing inefficiencies with low-latency execution.
-  
-<p>
-  <a href="https://t.me/sei_arb_bot">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Arb%20Bot-blue?logo=telegram" />
-  </a>
-</p>
-
----
-
-#### 🤖 Copy Trading Bots
-Mirror profitable strategies and automate trade execution seamlessly.
-  
-<p>
-  <a href="https://t.me/ddev05_bot">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Copy%20Bot-blue?logo=telegram" />
-  </a>
-</p>
-
----
-
-#### 🏟️ Sports Trading Bots
-Algorithmic trading models tailored for sports prediction markets.
-
----
-
-#### 📊 Market Making & HFT Bots
-Provide liquidity and capture spreads with high-frequency strategies and optimized order placement.
-  
-<p>
-  <a href="https://t.me/DDevMMBot">
-    <img src="https://img.shields.io/badge/Telegram-Join%20MM%20Bot-blue?logo=telegram" />
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody>
+    <tr>
+      <td colspan="2" valign="middle" align="left" nowrap>
+        <big><strong>⚡ Arbitrage Bots (5m / 15m)</strong></big>
+        &nbsp;
+        <a href="https://t.me/sei_arb_bot">
+          <img src="https://img.shields.io/badge/Telegram-Join%20Arb%20Bot-blue?logo=telegram" alt="Join Arb Bot on Telegram" height="20" align="middle"  style="display: inline-block; margin-bottom: 8px;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left"><small>Exploit short-term pricing inefficiencies with low-latency execution.</small></td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="left" nowrap>
+        <big><strong>🤖 Copy Trading Bots</strong></big>
+        &nbsp;
+        <a href="https://t.me/ddev05_bot">
+          <img src="https://img.shields.io/badge/Telegram-Join%20Copy%20Bot-blue?logo=telegram" alt="Join Copy Bot on Telegram" height="20" align="middle"  style="display: inline-block; margin-bottom: 8px;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left"><small>Mirror profitable strategies and automate trade execution seamlessly.</small></td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left" colspan="2"><big><strong>🏟️ Sports Trading Bots</strong></big></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left"><small>Algorithmic trading models tailored for sports prediction markets.</small></td>
+    </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="left" nowrap>
+        <big><strong>📊 Market Making &amp; HFT Bots</strong></big>
+        &nbsp;
+        <a href="https://t.me/DDevMMBot">
+          <img src="https://img.shields.io/badge/Telegram-Join%20MM%20Bot-blue?logo=telegram" alt="Join MM Bot on Telegram" height="20" align="middle"  style="display: inline-block; margin-bottom: 8px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left"><small>Provide liquidity and capture spreads with high-frequency strategies and optimized order placement.</small></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -56,13 +77,5 @@ Provide liquidity and capture spreads with high-frequency strategies and optimiz
 - 💰 Capital-efficient designs
 - 🔍 Built for real-time market conditions
 
----
-
-### 📬 Get Started
 Join our Telegram bots above to start using the tools or stay updated with new releases and features.
 
----
-
-<p align="center">
-  <b>Built for traders who value speed, precision, and edge.</b>
-</p>
