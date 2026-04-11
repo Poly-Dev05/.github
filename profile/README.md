@@ -65,6 +65,22 @@
     <tr>
       <td colspan="2" align="left"><small>Provide liquidity and capture spreads with high-frequency strategies and optimized order placement.</small></td>
     </tr>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="left" nowrap>
+        <big><strong>📊 Market Making &amp; Arb Combined Bots</strong></big>
+        &nbsp;
+        <a href="https://t.me/seitrading_bot">
+          <img src="https://img.shields.io/badge/Telegram-Join%20MM%20Bot-blue?logo=telegram" alt="Join MM Bot on Telegram" height="20" align="middle"  style="display: inline-block; margin-bottom: 8px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left"><small>Provide liquidity and capture spreads with high-frequency strategies and optimized order placement.</small></td>
+    </tr>
+    
   </tbody>
 </table>
 
